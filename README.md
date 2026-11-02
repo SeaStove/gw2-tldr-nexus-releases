@@ -2,8 +2,15 @@
 
 Download the latest addon from [Releases](https://github.com/SeaStove/gw2-tldr-nexus-releases/releases). Or the [nexus page](https://raidcore.gg/gw2/addons/gw2tldr)
 
-Visit [GW2 TLDR](https://gw2tldr.com) for encounter guides.
+Visit [GW2 TLDR](https://gw2tldr.com) for web app version of encounter guides.
 
+<ul>
+<li>Automatically select guides for supported maps.</li>
+</ul>
+<p><img src="https://github.com/user-attachments/assets/222321c9-c562-465b-806f-d559e55501aa" alt="gw2tldr nexus screenshot" width="722" height="482"></p>
+<ul>
+<li>Browse raids, strikes, fractals, dungeons, and meta events.</li>
+</ul>
 <p><img src="https://github.com/user-attachments/assets/9f75a33d-150e-48fe-b006-0d35de4dffa3" alt="gw2tldr nexus screenshot 2 1" width="667" height="340"></p>
 <p><img src="https://github.com/user-attachments/assets/effd4326-4b75-4f71-b1dc-c64f3ab717e4" alt="gw2tldr nexus screenshot 2" width="1247" height="596"></p>
 <ul>
