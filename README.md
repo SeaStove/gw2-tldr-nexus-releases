@@ -12,4 +12,4 @@ Visit [GW2 TLDR](https://gw2tldr.com) for encounter guides.
 
 <img width="1101" height="657" alt="gw2tldr nexus screenshot 3" src="https://github.com/user-attachments/assets/d6b8df9e-eec0-46a2-8db4-f90d2bf2e3af" />
 
-
+<img width="1502" height="455" alt="gw2tldr nexus screenshot 4" src="https://github.com/user-attachments/assets/e0aca8bc-0657-4792-a510-aa82e80199b1" />
